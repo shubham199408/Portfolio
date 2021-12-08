@@ -8,6 +8,6 @@ Data Science Portfolio
 * Performed Data cleaning and Exploratory data analysis to analyze the pattern and build different model such as multiple linear regression, logistic regression and k-nearest neighbors algorithm to  predict what factors influence the price of a house.
 
 
-# Project 2: [Medical Malpractice lawsuit - Exploratory Data Analysis, Storytelling](https://github.com/shubham199408/Medical-Malpractice-lawsuit-in-R)
+# Project 2: [Medical Malpractice lawsuit - Exploratory Data Analysis in R](https://github.com/shubham199408/Medical-Malpractice-lawsuit-in-R)
 
 *Performed Exploratory data analysis to determine the factors that affect the amount of claims an insurance company pays out for the medical malpractice lawsuits
