@@ -3,7 +3,7 @@ Data Science Portfolio
 
 # Project 1: [Exploring the housing sale prices in King County, USA using exploratory data analysis and model building in Python](https://github.com/shubham199408/Predicting-housing-prices-in-King-County-USA)
 
-![image]https://github.com/shubham199408/Shubham_Portfolio/blob/main/images/0_XMbwmj-4r80bBuIg.jpg?raw=true
+![]https://github.com/shubham199408/Shubham_Portfolio/blob/main/images/0_XMbwmj-4r80bBuIg.jpg?raw=true
 
 
 
