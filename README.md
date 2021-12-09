@@ -2,8 +2,6 @@
 
 I am passionate about using data to extract decision making insights and help solve business problems
 
-Data Science Portfolio
-
 Here are some of my data science projects.
 
 # Project 1: [Exploring the housing sale prices in King County, USA using exploratory data analysis and model building in Python](https://github.com/shubham199408/Predicting-housing-prices-in-King-County-USA)
