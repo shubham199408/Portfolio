@@ -15,6 +15,6 @@ Here are some of my data science projects.
 
 ~Performed Exploratory data analysis to determine the factors that affect the amount of claims an insurance company pays out for the medical malpractice lawsuits
 
-![image](https://user-images.githubusercontent.com/95050679/145476700-ea779841-96b3-47cd-9375-892056b99356.png)
+![](https://raw.githubusercontent.com/shubham199408/Portfolio/main/images/Malpractice-Article-202105131659.webp)
 
 **Skills**: R, Exploratory Data Anlaysis, Data Visualization, Storytelling
