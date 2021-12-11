@@ -8,6 +8,8 @@ Here are some of my data science projects.
 
 ![](https://github.com/shubham199408/Portfolio/blob/main/images/image%202.png?raw=true)
 
+-----------------------------------------------------------------------------------------------------------------
+
 **Skills**: Python, Pandas, Scikit-Learn, kNN, clustering, PCA
 
 # [Exploring the housing sale prices in King County, USA using exploratory data analysis and model building in Python](https://github.com/shubham199408/Predicting-housing-prices-in-King-County-USA)
