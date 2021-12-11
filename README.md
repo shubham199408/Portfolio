@@ -4,7 +4,7 @@ I am passionate about using data to extract decision making insights and help so
 
 Here are some of my data science projects.
 
-# [Customer Segmentation](https://github.com/shubham199408/Customer-Segmentation-using-Python)
+# [Customer Segmentation](https://github.com/shubham199408/Customer-Segmentation-using-Python/blob/main/Customer_Segemntation_Python.ipynb)
 
 ![](https://github.com/shubham199408/Portfolio/blob/main/images/image%202.png)
 
