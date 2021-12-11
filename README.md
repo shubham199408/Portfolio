@@ -6,7 +6,7 @@ Here are some of my data science projects.
 
 # [Customer Segmentation](https://github.com/shubham199408/Customer-Segmentation-using-Python/blob/main/Customer_Segemntation_Python.ipynb)
 
-![](/images/image%202.png)
+![](https://github.com/shubham199408/Portfolio/blob/main/images/image%202.png?raw=true)
 
 **Skills**: Python, Pandas, Scikit-Learn, kNN, clustering, PCA
 
