@@ -8,7 +8,7 @@ Here are some of my data science projects.
 
 ![](https://github.com/shubham199408/Portfolio/blob/main/images/image%202.png?raw=true)
 
-**Skills**: Python, Pandas, Scikit-Learn, kNN, clustering, PCA
+**Skills**: Python, Pandas, Scikit-Learn, k-means, clustering, PCA
 
 -----------------------------------------------------------------------------------------------------------------
 
