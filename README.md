@@ -4,6 +4,14 @@ I am passionate about using data to extract decision making insights and help so
 
 Here are some of my data science projects.
 
+# [Predicting Customer Churn](https://github.com/shubham199408/Churn-prediction-using-logistic-regression-in-Python/blob/main/Logistic_reg_customer_churn.ipynb)
+
+![](https://github.com/shubham199408/Churn-prediction-using-logistic-regression-in-Python/blob/3c578a8ea9a907b7c26872325ccf993159d19de7/Churn.png)
+
+**Skills** pandas, matplotlib, seaborn, sklearn, imblearn, statsmodel, Logistic regression, Classification evaluation matrix, Feature Selection
+
+-----------------------------------------------------------------------------------------------------------------
+
 # [Customer Segmentation](https://github.com/shubham199408/Customer-Segmentation-using-Python/blob/main/Customer_Segemntation_Python.ipynb)
 
 ![](https://github.com/shubham199408/Portfolio/blob/main/images/image%202.png?raw=true)
