@@ -6,9 +6,9 @@ Here are some of my data science projects.
 
 # [Predicting Customer Churn](https://github.com/shubham199408/Churn-prediction-using-logistic-regression-in-Python/blob/main/Logistic_reg_customer_churn.ipynb)
 
-![](https://github.com/shubham199408/Churn-prediction-using-logistic-regression-in-Python/blob/3c578a8ea9a907b7c26872325ccf993159d19de7/Churn.png)
+![Churn](https://user-images.githubusercontent.com/95050679/147885142-6261ff5b-53c5-4928-be68-8046fb4b85a3.png)
 
-**Skills** pandas, matplotlib, seaborn, sklearn, imblearn, statsmodel, Logistic regression, Classification evaluation matrix, Feature Selection
+**Skills** pandas, matplotlib, seaborn, sklearn, imblearn, statsmodel, EDA, Logistic regression, Classification evaluation metrics, Feature Selection
 
 -----------------------------------------------------------------------------------------------------------------
 
