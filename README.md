@@ -20,6 +20,14 @@ Here are some of my data science projects.
 
 -----------------------------------------------------------------------------------------------------------------
 
+# [Predicting Cancer Mortality Rate](https://github.com/shubham199408/Predicting-Cancer-mortality-rate-in-US-with-R/blob/main/Project_documentation.pdf)
+
+![image](https://user-images.githubusercontent.com/95050679/145737261-5e2f9048-d5de-4b46-bfae-1b1f77dbf559.png)
+
+**Skills**: R, Exploratory Data Analysis, Cross-Validation, Feature Selection, ggplot, Dimensionality reduction, GLRM, Random Forest
+
+------------------------------------------------------------------------------------------------------------------
+
 # [Exploring the housing sale prices in King County, USA using exploratory data analysis and model building in Python](https://github.com/shubham199408/Predicting-housing-prices-in-King-County-USA)
 
 ![](https://github.com/shubham199408/Portfolio/blob/main/images/HP.jpg?raw=true)
@@ -39,8 +47,4 @@ Here are some of my data science projects.
 
 -------------------------------------------------------------------------------------------------------------------
 
-# [Predicting Cancer Mortality Rate](https://github.com/shubham199408/Predicting-Cancer-mortality-rate-in-US-with-R/blob/main/Project_documentation.pdf)
 
-![image](https://user-images.githubusercontent.com/95050679/145737261-5e2f9048-d5de-4b46-bfae-1b1f77dbf559.png)
-
-**Skills**: R, Exploratory Data Analysis, Cross-Validation, Feature Selection, ggplot, Dimensionality reduction, GLRM, Random Forest
