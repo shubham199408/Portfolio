@@ -24,7 +24,7 @@ Here are some of my data science projects.
 
 ![image](https://user-images.githubusercontent.com/95050679/145737261-5e2f9048-d5de-4b46-bfae-1b1f77dbf559.png)
 
-**Skills**: R, Exploratory Data Analysis, Cross-Validation, Feature Selection, ggplot, Dimensionality reduction, GLRM, Random Forest
+**Skills**: R, Exploratory Data Analysis, Cross-Validation, Feature Selection, ggplot2, Dimensionality reduction, GLRM, Random Forest
 
 ------------------------------------------------------------------------------------------------------------------
 
